@@ -19,7 +19,7 @@
 
 ## 👨‍💻 About Me
 
-- 🔭 &nbsp; Currently building **[GoanMart](https://goanmart.vercel.app)** — a production e-commerce marketplace serving real users
+- 🔭 &nbsp; Currently building **[GoanMart](https://goanmart.in)** — a production e-commerce marketplace serving real users
 - 🏆 &nbsp; **National Hackathon Finalist** — HackVortex 2025 (competed against 1000+ teams)
 - 🧠 &nbsp; Solved **500+ DSA problems** on LeetCode & CodeChef
 - 🌱 &nbsp; Currently learning **System Design** & Advanced DSA patterns
